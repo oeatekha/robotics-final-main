@@ -1,0 +1,5 @@
+<launch>
+    <node name="joy_node" pkg="joy" type="joy_node" output="screen" />
+    <!--Run rosserial for the motor controls-->
+    <node name='conveyor_arduino' pkg='rosserial_python' type='serial_node.py' args='/dev/ttyACM0' respawn="true"/> 
+</launch>

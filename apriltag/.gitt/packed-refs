@@ -1,0 +1,12 @@
+# pack-refs with: peeled fully-peeled sorted 
+00c1e532ef34a796829ce514dd2f391103090703 refs/remotes/origin/artoolkit
+1d140ba63053b1fa297e0d578c98fcbab66faf36 refs/remotes/origin/lopsided98-cmake-absolute-includedir
+a0b37ad165d1908fc0c400898f28fb4bb16deb1b refs/remotes/origin/master
+92b84900556a0880cdc2eed41bf35e5a69d4c3a7 refs/remotes/origin/python_cmake_attempt
+800bbbf8df8f14cfbd659606f348ccf4a0cb557c refs/tags/3.1
+800bbbf8df8f14cfbd659606f348ccf4a0cb557c refs/tags/3.1.0
+43ca2c4db31e685dcecb928d5f5ae7659677e98b refs/tags/3.1.1
+41cfb504093e8a176ef63c568c235e04615bb4f0 refs/tags/3.1.2
+a5ab81dd79fd294b77940efad889a820509e83ae refs/tags/v3.0.0
+daba130813221b73b4bc3f5e20a5efa2f9c2a52e refs/tags/v3.1.3
+b54fae744bdbddad62c4e0a0d39d8ba8c48a1d4c refs/tags/v3.1.4

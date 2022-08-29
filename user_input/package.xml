@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<package>
+  <name>user_input</name>
+  <version>1.0.0</version>
+  <description>
+    ROS package for user side of covid19bot
+  </description>
+
+  <maintainer email="jerryng@mit.edu">
+    Jerry Ng
+  </maintainer>
+  <license>Apache 2.0</license>
+  <url type="website">mit.edu</url>
+  <author>Jerry Ng</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <build_depend>cv_bridge</build_depend>
+  <build_depend>rospy</build_depend>
+  <build_depend>actionlib</build_depend>
+  <build_depend>control_msgs</build_depend>
+  <build_depend>sensor_msgs</build_depend>
+  <build_depend>std_msgs</build_depend>
+  <build_depend>trajectory_msgs</build_depend>
+  <build_depend>message_filters </build_depend>
+  <build_depend>message_generation</build_depend>
+  <run_depend>message_generation</run_depend>
+  <run_depend>message_runtime</run_depend>
+  <run_depend>message_filters</run_depend>
+  <run_depend>cv_bridge</run_depend>
+  <run_depend>rospy</run_depend>
+  <run_depend>actionlib</run_depend>
+  <run_depend>control_msgs</run_depend>
+  <run_depend>sensor_msgs</run_depend>
+  <run_depend>std_msgs</run_depend>
+  <run_depend>trajectory_msgs</run_depend>
+  <run_depend>rospy_message_converter</run_depend>
+
+
+</package>

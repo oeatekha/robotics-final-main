@@ -1,0 +1,7 @@
+# pack-refs with: peeled fully-peeled sorted 
+acfce85bbb11284ba3b0538845ff88ff2e4428ea refs/remotes/origin/master
+a8d2c9e414653217d688a218ffeacee6d254ecd5 refs/remotes/origin/wxm-const-ref-and-isometry3d
+44ecc217477c7ad3dbcce0a1a375871809a7c60f refs/tags/1.0.0
+d03fe0c459e469c7b996fc60a410fddd20ece0d2 refs/tags/3.1.0
+b95f161ce631f765aa370cce40c03c5d34acca79 refs/tags/3.1.1
+c5cf6db59414fd42ec57fe4027b0c91bc5f59d54 refs/tags/3.1.2
